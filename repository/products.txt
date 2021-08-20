@@ -1,0 +1,4 @@
+barcode1, product1, company1, 50, 40, 25
+barcode2, product2, company2, 100, 15, 20
+barcode3, product3, company2, 75, 10, 0
+barcode4, product4, company3, 120, 10, 0
